@@ -37,7 +37,7 @@ You can open this project through your code editor. Example, using vscode:
 
 👤 **Vahe Stepanyan**
 
-- GitHub: [@amon-cofie](https://github.com/VaheStepanyan100)
+- GitHub: [VaheStepanyan100](https://github.com/VaheStepanyan100)
 
 ## 🤝 Contributing
 
