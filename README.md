@@ -35,7 +35,7 @@ You can open this project through your code editor. Example, using vscode:
 
 ## Author
 
-👤 **Amon-Cofie David**
+👤 **Vahe Stepanyan**
 
 - GitHub: [@amon-cofie](https://github.com/VaheStepanyan100)
 
