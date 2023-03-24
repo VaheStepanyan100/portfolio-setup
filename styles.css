@@ -32,15 +32,26 @@ body {
   border: none;
   padding-right: 14px;
   padding-top: 14px;
+  cursor: pointer;
 }
 
-.about {
+.main-content {
+  margin-top: 200px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 10%;
-  font-size: 40px;
+}
+
+.main-content > p {
+  width: 420px;
+  font-weight: 600;
+  font-size: large;
+}
+
+.contacts > p {
+  color: #6070ff;
+  width: 420px;
 }
 
 .contacts {
@@ -55,6 +66,7 @@ body {
   margin: 0;
   padding: 0;
   align-items: center;
+  margin-right: 300px;
 }
 
 .social-media-icons li {
