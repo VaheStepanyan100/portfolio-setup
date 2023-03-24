@@ -25,7 +25,8 @@ body {
   display: flex;
 }
 
-.navbar-links li {
+.navbar-links li,
+.social-media-icons li {
   list-style: none;
 }
 
@@ -34,4 +35,20 @@ body {
   color: black;
   padding: 1rem;
   display: block;
+}
+
+.about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 15%;
+  font-size: 20px;
+}
+
+.contacts {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
