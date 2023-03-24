@@ -1,133 +1,68 @@
-<a name="readme-top"></a>
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# portfolio-setup
+# Mobile-first-Portfolio
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
+> This project contains the markup and styles for my portfolio website, with priority given to the mobile view first
 
-Modify this file to match your project and remove sections that don't apply.
+## Built With
 
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
+- HTML
+- CSS
 
-OPTIONAL SECTIONS:
-- FAQ
+## Live Demo
 
-After you're finished please remove all the comments and instructions!
--->
+[Link to the github pages deployed website](https://amon-cofie.github.io/Mobile-first-Portfolio/)
 
-<!-- TABLE OF CONTENTS -->
+## Getting Started
 
-# 📗 Table of Contents
+**how to clone the repository**
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+- In this repository click on the "code" button (usually highlighted green) above.
+- You can select between either HTTPS or SSH if you have an SSH key linked.
+- Click on the copy icon on the right side of the link provided to copy the link
+- Go to your command line and type "git clone" followed by the link you just copied and press enter
+- The repository should be available locally on your computer.
+- You can change directory into the repository using the 'cd' command: cd "repository name"
 
-<!-- PROJECT DESCRIPTION -->
+**how to open this project**
 
-# 📖 [portfolio: setup and mobile first] <a name="about-project"></a>
+You can open this project through your code editor. Example, using vscode:
 
-**portfolio: setup and mobile first** is a project to understand how to parse a Figma design to create a UI, flexbox to place elements in the page, build a personal portfolio site, use images and backgrounds to enhance the look of the website.
+- Click on file (First button in the menu bar)
+- Click on "open folder" in the drop down menu
+- In the dialogue box that opens, navigate to the repository and click select folder.
+- The project should be open in vscode.
 
-## 🛠 Built With <a name="built-with"></a>
+### Pre-requisites
 
-### Tech Stack <a name="tech-stack"></a>
+- A code editor should be installed
+- Git should be installed
+- Nodejs should be installed
 
-<details>
-  <summary>CSS</summary>
-  <ul>
-    <li><a href="https://www.w3schools.com/css/css3_flexbox.asp">C
-    SS Flexbox</a></li>
-  </ul>
-</details>
+## Author
 
-<details>
-  <summary>HTML</summary>
-  <ul>
-    <li><a href="https://www.w3schools.com/html/html5_semantic_elements.asp">HTML Semantic Elements</a></li>
-  </ul>
-</details>
+👤 **Amon-Cofie David**
 
-<details>
-<summary>GitHub</summary>
-  <ul>
-    <li><a href="https://docs.github.com/en/get-started/quickstart/github-flow">GitHub flow</a></li>
-  </ul>
-</details>
+- GitHub: [@amon-cofie](https://github.com/amon-cofie)
+- Twitter: [@amon_cofie](https://twitter.com/amon_cofie)
+- LinkedIn: [David Amon-Cofie](https://www.linkedin.com/in/david-amon-cofie-2389ab241/)
 
-<!-- Features -->
+## 🤝 Contributing
 
-### Key Features <a name="key-features"></a>
+Contributions, issues, and feature requests are welcome!
 
-- **Follow best practices for HTML & CSS**
-- **HTML&CSS linter**
+Feel free to check the [issues page](https://github.com/amon-cofie/Mobile-first-Portfolio/issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Show your support
 
-<!-- LIVE DEMO -->
+Give a ⭐️ if you like this project!
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## Acknowledgments
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
-<!-- GETTING STARTED -->
+## 📝 License
 
-## 💻 Getting Started <a name="getting-started"></a>
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-👤 **Author1**
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/VaheStepanyan100)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
+This project is [MIT](https://github.com/amon-cofie/Mobile-first-Portfolio/blob/main/LICENSE) licensed.
