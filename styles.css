@@ -42,7 +42,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 15%;
+  padding: 10%;
   font-size: 20px;
 }
 
@@ -51,4 +51,9 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.main {
+  background-image: url("assets/Header bg@2x.png");
+  background-size: cover;
 }
