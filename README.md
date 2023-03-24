@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Mobile-first-Portfolio
 
 > This project contains the markup and styles for my portfolio website, with priority given to the mobile view first
@@ -8,10 +6,6 @@
 
 - HTML
 - CSS
-
-## Live Demo
-
-[Link to the github pages deployed website](https://amon-cofie.github.io/Mobile-first-Portfolio/)
 
 ## Getting Started
 
@@ -43,9 +37,7 @@ You can open this project through your code editor. Example, using vscode:
 
 👤 **Amon-Cofie David**
 
-- GitHub: [@amon-cofie](https://github.com/amon-cofie)
-- Twitter: [@amon_cofie](https://twitter.com/amon_cofie)
-- LinkedIn: [David Amon-Cofie](https://www.linkedin.com/in/david-amon-cofie-2389ab241/)
+- GitHub: [@amon-cofie](https://github.com/VaheStepanyan100)
 
 ## 🤝 Contributing
 
@@ -62,7 +54,3 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-
-## 📝 License
-
-This project is [MIT](https://github.com/amon-cofie/Mobile-first-Portfolio/blob/main/LICENSE) licensed.
